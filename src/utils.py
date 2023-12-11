@@ -18,7 +18,6 @@ def save_object(file_path, obj):
     except Exception as e:
         raise CustomException(e,sys)
 
-from sklearn.metrics import r2_score
 def evaluate_model(X_train, y_train, X_test, y_test, models, param):
     try:
         report = {}
