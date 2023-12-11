@@ -1,16 +1,11 @@
 Table of Contents
 
-Overview
-
-Structure of the project
-
-Building blocks
-
-Installation
-
-Results
-
-License
+1. Overview
+2. Structure of the project
+3. Building blocks
+4. Installation
+5. Results
+6. License
 
 
 OVERVIEW:
