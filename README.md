@@ -1,10 +1,15 @@
 Table of Contents
 
 Overview
-Structure of the proect
+
+Structure of the project
+
 Building blocks
+
 Installation
+
 Results
+
 License
 
 
